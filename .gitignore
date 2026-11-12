@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+build/
+dist/
+*.egg-info/
+*.pyc
+*.pyd
+*.so
+*.o
+*.obj
+sum_squares_cython.c
+numpy_memmap.dat
+.env
